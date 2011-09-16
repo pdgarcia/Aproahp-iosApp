@@ -1,0 +1,10 @@
+# Ignora los archivos de sistema
+.DS_Store
+
+# Ignora los directorios de compilación
+build
+
+# Ignora los archivos de proyecto referentes a mi usuario
+*.pbxuser
+*.perspectivev3
+*.model2v3
