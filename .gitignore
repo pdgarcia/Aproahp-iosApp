@@ -1,10 +1,16 @@
 # Ignora los archivos de sistema
 .DS_Store
+*.swp
+*~.nib
 
 # Ignora los directorios de compilación
-build
+build/
 
 # Ignora los archivos de proyecto referentes a mi usuario
 *.pbxuser
 *.perspectivev3
-*.model2v3
+*.mode1v3
+*.mode2v3
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
